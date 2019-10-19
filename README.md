@@ -1,0 +1,1 @@
+This project involves cloning the Google.com homepage, to practice html and css skills. 
