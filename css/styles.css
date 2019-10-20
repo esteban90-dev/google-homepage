@@ -47,10 +47,21 @@ form{
 
 .footer-left{
     float:left;
-
+    whitespace:nowrap;
 }
 
 .footer-right{
     float:right;
     margin-right:30px;
+    whitespace:nowrap;
+}
+
+.link{
+    text-decoration:none;
+    color:#5f6368;
+    margin-right: 15px;
+}
+
+.link:hover{
+    text-decoration:underline;
 }
