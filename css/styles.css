@@ -28,11 +28,37 @@ form{
     height:44px;
 }
 
+.search-container:hover{
+    box-shadow: 0 0 5px #dfe1e5;
+}
+
 .search{
     padding:5px;
     margin-top:8px;
     border:none;
     background-color:white;
+    width:420px;
+}
+
+.button-container{
+    margin-top:25px;
+}
+
+.search-button{
+    width:140px;
+    padding:10px;
+    margin:3px;
+    background-color:#f2f2f2;
+    border-radius:5px;
+    border:none;
+    font-size:14px;
+    color:#5f6368;
+}
+
+.search-button:hover{
+    box-shadow: 0px 0px 0px 1px #bcc3ca;
+    color: #222;
+
 }
 
 .footer{
